@@ -35,7 +35,7 @@ a:hover .n, a:hover .root { opacity: .85; }
 </style>
 <rect class="bg" x="0" y="0" width="1600" height="1406"/>
 <text class="title" x="24" y="42">Arabic AI Atlas</text>
-<text class="sub" x="24" y="70">Arabic AI family tree · 385 models from 21 base families · 2026-10-13</text>
+<text class="sub" x="24" y="70">Arabic AI family tree · 385 models from 21 base families · 2026-10-14</text>
 <text class="lg-h" x="1576" y="38" text-anchor="end">One band per base family · pill width grows with Hugging Face downloads</text>
 <rect class="llm" x="1223.4" y="58" width="14" height="14" rx="3"/>
 <text class="lg" x="1243.4" y="70">LLM</text>
@@ -86,9 +86,9 @@ a:hover .n, a:hover .root { opacity: .85; }
 <line class="rule" x1="24" y1="250" x2="1576" y2="250"/>
 <path class="branch" d="M292 288.5C326 288.5 318 271 352 271"/>
 <a href="https://huggingface.co/openai/whisper-large-v3-turbo" target="_blank" rel="noopener"><title>whisper-large-v3-turbo · ASR · 6.3M downloads</title><rect class="n asr" x="356" y="257" width="215.8" height="28" rx="5"/><text class="nl" x="463.9" y="275" text-anchor="middle">whisper-large-v3-turbo</text></a>
-<a href="https://huggingface.co/openai/whisper-large-v3" target="_blank" rel="noopener"><title>openai/whisper-large-v3 · ASR · 3.7M downloads</title><rect class="n asr" x="577.8" y="257" width="211" height="28" rx="5"/><text class="nl" x="683.3" y="275" text-anchor="middle">openai/whisper-large-v3</text></a>
-<a href="https://huggingface.co/naazimsnh02/whisper-large-v3-turbo-ar-quran" target="_blank" rel="noopener"><title>whisper-large-v3-turbo-ar-quran · ASR · 60K downloads</title><rect class="n asr" x="794.8" y="257" width="173" height="28" rx="5"/><text class="nl" x="881.3" y="275" text-anchor="middle">whisper-large-v3-turbo-ar-q…</text></a>
-<a href="https://huggingface.co/tarteel-ai/whisper-base-ar-quran" target="_blank" rel="noopener"><title>Whisper Quran · ASR · 21K downloads</title><rect class="n asr" x="973.8" y="257" width="163.5" height="28" rx="5"/><text class="nl" x="1055.6" y="275" text-anchor="middle">Whisper Quran</text></a>
+<a href="https://huggingface.co/openai/whisper-large-v3" target="_blank" rel="noopener"><title>openai/whisper-large-v3 · ASR · 3.7M downloads</title><rect class="n asr" x="577.8" y="257" width="210.9" height="28" rx="5"/><text class="nl" x="683.2" y="275" text-anchor="middle">openai/whisper-large-v3</text></a>
+<a href="https://huggingface.co/naazimsnh02/whisper-large-v3-turbo-ar-quran" target="_blank" rel="noopener"><title>whisper-large-v3-turbo-ar-quran · ASR · 60K downloads</title><rect class="n asr" x="794.7" y="257" width="173" height="28" rx="5"/><text class="nl" x="881.2" y="275" text-anchor="middle">whisper-large-v3-turbo-ar-q…</text></a>
+<a href="https://huggingface.co/tarteel-ai/whisper-base-ar-quran" target="_blank" rel="noopener"><title>Whisper Quran · ASR · 21K downloads</title><rect class="n asr" x="973.7" y="257" width="163.6" height="28" rx="5"/><text class="nl" x="1055.5" y="275" text-anchor="middle">Whisper Quran</text></a>
 <a href="https://huggingface.co/anaszil/whisper-large-v3-turbo-darija" target="_blank" rel="noopener"><title>whisper-large-v3-turbo-darija · ASR · 2K downloads</title><rect class="n asr" x="1143.4" y="257" width="142.6" height="28" rx="5"/><text class="nl" x="1214.7" y="275" text-anchor="middle">whisper-large-v3-turb…</text></a>
 <a href="https://huggingface.co/Dr-AliGomaa/whisper-large-v3-ar" target="_blank" rel="noopener"><title>whisper large v3 ar · ASR · 2K downloads</title><rect class="n asr" x="1292" y="257" width="142.5" height="28" rx="5"/><text class="nl" x="1363.2" y="275" text-anchor="middle">whisper large v3 ar</text></a>
 <path class="branch" d="M292 288.5C326 288.5 318 306 352 306"/>
@@ -212,9 +212,9 @@ a:hover .n, a:hover .root { opacity: .85; }
 <line class="rule" x1="24" y1="835" x2="1576" y2="835"/>
 <path class="branch" d="M292 860C326 860 318 860 352 860"/>
 <a href="https://huggingface.co/IbrahimAmin/egyptian-arabic-wav2vec2-xlsr-53" target="_blank" rel="noopener"><title>egyptian-arabic-wav2vec2-xlsr-53 · ASR · 4K downloads</title><rect class="n asr" x="356" y="846" width="149.3" height="28" rx="5"/><text class="nl" x="430.7" y="864" text-anchor="middle">egyptian-arabic-wav2v…</text></a>
-<a href="https://huggingface.co/boumehdi/wav2vec2-large-xlsr-moroccan-darija" target="_blank" rel="noopener"><title>wav2vec2-large-xlsr-moroccan-darija · ASR · 1K downloads</title><rect class="n asr" x="511.3" y="846" width="141.4" height="28" rx="5"/><text class="nl" x="582" y="864" text-anchor="middle">wav2vec2-large-xlsr-…</text></a>
-<a href="https://huggingface.co/MostafaMaroof/wav2vec2-arabic-phoneme-asr" target="_blank" rel="noopener"><title>wav2vec2-arabic-phoneme-asr · ASR · 1K downloads</title><rect class="n asr" x="658.7" y="846" width="138" height="28" rx="5"/><text class="nl" x="727.7" y="864" text-anchor="middle">wav2vec2-arabic-ph…</text></a>
-<a href="https://huggingface.co/mohammed/wav2vec2-large-xlsr-arabic" target="_blank" rel="noopener"><title>wav2vec2 large xlsr arabic · ASR · 27 downloads</title><rect class="n asr" x="802.7" y="846" width="102.6" height="28" rx="5"/><text class="nl" x="854" y="864" text-anchor="middle">wav2vec2 lar…</text></a>
+<a href="https://huggingface.co/boumehdi/wav2vec2-large-xlsr-moroccan-darija" target="_blank" rel="noopener"><title>wav2vec2-large-xlsr-moroccan-darija · ASR · 1K downloads</title><rect class="n asr" x="511.3" y="846" width="140.9" height="28" rx="5"/><text class="nl" x="581.7" y="864" text-anchor="middle">wav2vec2-large-xlsr-…</text></a>
+<a href="https://huggingface.co/MostafaMaroof/wav2vec2-arabic-phoneme-asr" target="_blank" rel="noopener"><title>wav2vec2-arabic-phoneme-asr · ASR · 1K downloads</title><rect class="n asr" x="658.2" y="846" width="138" height="28" rx="5"/><text class="nl" x="727.2" y="864" text-anchor="middle">wav2vec2-arabic-ph…</text></a>
+<a href="https://huggingface.co/mohammed/wav2vec2-large-xlsr-arabic" target="_blank" rel="noopener"><title>wav2vec2 large xlsr arabic · ASR · 26 downloads</title><rect class="n asr" x="802.2" y="846" width="102.3" height="28" rx="5"/><text class="nl" x="853.3" y="864" text-anchor="middle">wav2vec2 lar…</text></a>
 <circle class="knot" cx="292" cy="860" r="3"/>
 <a href="https://h9-tec.github.io/arabic-ai-atlas/#view=tree" target="_blank" rel="noopener"><title>XLS-R · إكس إل إس-آر (4)</title><rect class="root" x="24" y="842" width="268" height="36" rx="18"/><text class="r-en" x="42" y="865.5">XLS-R</text><text class="r-n" x="99.6" y="865.5">4</text><text class="r-ar" x="274" y="866.5" text-anchor="end" lang="ar">إكس إل إس-آر</text></a>
 <line class="rule" x1="24" y1="885" x2="1576" y2="885"/>
@@ -226,14 +226,14 @@ a:hover .n, a:hover .root { opacity: .85; }
 <a href="https://h9-tec.github.io/arabic-ai-atlas/#view=tree" target="_blank" rel="noopener"><title>NLLB · NLLB (3)</title><rect class="root" x="24" y="892" width="268" height="36" rx="18"/><text class="r-en" x="42" y="915.5">NLLB</text><text class="r-n" x="94.4" y="915.5">3</text></a>
 <line class="rule" x1="24" y1="935" x2="1576" y2="935"/>
 <path class="branch" d="M292 960C326 960 318 960 352 960"/>
-<a href="https://huggingface.co/facebook/seamless-m4t-v2-large" target="_blank" rel="noopener"><title>SeamlessM4T v2 · ASR · 303K downloads</title><rect class="n asr" x="356" y="946" width="187.9" height="28" rx="5"/><text class="nl" x="450" y="964" text-anchor="middle">SeamlessM4T v2</text></a>
+<a href="https://huggingface.co/facebook/seamless-m4t-v2-large" target="_blank" rel="noopener"><title>SeamlessM4T v2 · ASR · 302K downloads</title><rect class="n asr" x="356" y="946" width="187.9" height="28" rx="5"/><text class="nl" x="449.9" y="964" text-anchor="middle">SeamlessM4T v2</text></a>
 <a href="https://huggingface.co/AnasAber/seamless-darija-eng" target="_blank" rel="noopener"><title>Seamless Darija-English · LLM · 23 downloads</title><rect class="n llm" x="549.9" y="946" width="101.2" height="28" rx="5"/><text class="nl" x="600.5" y="964" text-anchor="middle">Seamless Dar…</text></a>
 <circle class="knot" cx="292" cy="960" r="3"/>
 <a href="https://h9-tec.github.io/arabic-ai-atlas/#view=tree" target="_blank" rel="noopener"><title>SeamlessM4T · SeamlessM4T (2)</title><rect class="root" x="24" y="942" width="268" height="36" rx="18"/><text class="r-en" x="42" y="965.5">SeamlessM4T</text><text class="r-n" x="162.9" y="965.5">2</text></a>
 <line class="rule" x1="24" y1="985" x2="1576" y2="985"/>
 <path class="branch" d="M292 1010C326 1010 318 1010 352 1010"/>
 <a href="https://huggingface.co/TBOGamer22/wav2vec2-quran-phonetics" target="_blank" rel="noopener"><title>wav2vec2 quran phonetics · ASR · 9K downloads</title><rect class="n asr" x="356" y="996" width="156.2" height="28" rx="5"/><text class="nl" x="434.1" y="1014" text-anchor="middle">wav2vec2 quran phonet…</text></a>
-<a href="https://huggingface.co/HamzaSidhu786/wav2vec2-base-word-by-word-quran-asr" target="_blank" rel="noopener"><title>wav2vec2 base word by word quran asr · ASR · 210 downloads</title><rect class="n asr" x="518.2" y="996" width="121.1" height="28" rx="5"/><text class="nl" x="578.8" y="1014" text-anchor="middle">wav2vec2 base…</text></a>
+<a href="https://huggingface.co/HamzaSidhu786/wav2vec2-base-word-by-word-quran-asr" target="_blank" rel="noopener"><title>wav2vec2 base word by word quran asr · ASR · 196 downloads</title><rect class="n asr" x="518.2" y="996" width="120.5" height="28" rx="5"/><text class="nl" x="578.5" y="1014" text-anchor="middle">wav2vec2 base…</text></a>
 <circle class="knot" cx="292" cy="1010" r="3"/>
 <a href="https://h9-tec.github.io/arabic-ai-atlas/#view=tree" target="_blank" rel="noopener"><title>wav2vec · واف تو فيك (2)</title><rect class="root" x="24" y="992" width="268" height="36" rx="18"/><text class="r-en" x="42" y="1015.5">wav2vec</text><text class="r-n" x="121.3" y="1015.5">2</text><text class="r-ar" x="274" y="1016.5" text-anchor="end" lang="ar">واف تو فيك</text></a>
 <line class="rule" x1="24" y1="1035" x2="1576" y2="1035"/>
@@ -280,5 +280,5 @@ a:hover .n, a:hover .root { opacity: .85; }
 <circle class="knot" cx="292" cy="1323.5" r="3"/>
 <a href="https://h9-tec.github.io/arabic-ai-atlas/#view=tree" target="_blank" rel="noopener"><title>Other · أخرى (99)</title><rect class="root" x="24" y="1305.5" width="268" height="36" rx="18"/><text class="r-en" x="42" y="1329">Other</text><text class="r-n" x="89.6" y="1329">99</text><text class="r-ar" x="274" y="1330" text-anchor="end" lang="ar">أخرى</text></a>
 <line class="rule" x1="24" y1="1362" x2="1576" y2="1362"/>
-<text class="footer" x="1576" y="1390" text-anchor="end">Generated 2026-10-13 · full lineage on the live site · github.com/h9-tec/arabic-ai-atlas</text>
+<text class="footer" x="1576" y="1390" text-anchor="end">Generated 2026-10-14 · full lineage on the live site · github.com/h9-tec/arabic-ai-atlas</text>
 </svg>
